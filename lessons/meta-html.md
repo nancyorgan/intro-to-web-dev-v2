@@ -25,7 +25,7 @@ This is about as barebones as you get. Let's dissect it point-by-point.
 
 #### `<!DOCTYPE html>`
 
-HTML is an old language. It was invented in 1993! While I'm sure the originators and the early adopters of HTML did their best to make they could, there's no way they could have anticipated that we'd still be using it 25 years and they needs we'd have. As such, HTML has had to evolve in many unexpected ways and part of that is removing bad parts and mistakes that used to HTML as we go along. When they remove bad stuff and add good stuff, they make a new version of HTML. The way we tell the browser that's reading the HTML what version of HTML we're using is this first tag. This particular one is for HTML5, the latest (as of writing) revision of HTML. HTML doesn't get revised very often so this will be the header you'll use for a long time to come.
+HTML is an old language. It was invented in 1993! While I'm sure the originators and the early adopters of HTML did the best they could, there's no way they could have anticipated that we'd still be using it 25 years later and the needs that we'd have. As such, HTML has had to evolve in many unexpected ways and part of that is removing bad parts and mistakes that used to HTML as we go along. When they remove bad stuff and add good stuff, they make a new version of HTML. The way we tell the browser that's reading the HTML what version of HTML we're using is this first tag. This particular one is for HTML5, the latest (as of writing) revision of HTML. HTML doesn't get revised very often so this will be the header you'll use for a long time to come.
 
 #### `<html lang="en"></html>`
 
